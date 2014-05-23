@@ -1,1 +1,8 @@
-Hello Git
+# Comandos Básicos que vou aprendendo no git
+
+git init	# define os arquivos git necessários 
+git add 'FILE'	# Define um estágio do 'FILE' adicionando a lista de arquivos a serem comentados
+git commit -m 'first commit' # comenta os arquivos, com a mensagem 'first commit' 
+git push origin master 		# envia a mensagem para o ramo mestre
+git clone	# Copia os arquivos do repositório no diretório atual
+git fetch	# Baixa as mudanças mo diretório local, sem modificar meus arquivos
